@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmailPostfach.iml" filepath="$PROJECT_DIR$/EmailPostfach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/z/z.iml" filepath="$PROJECT_DIR$/z/z.iml" />
+    </modules>
+  </component>
+</project>
